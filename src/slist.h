@@ -244,7 +244,7 @@ public:
         return *this;
     }
 
-    // Copy-присваивание: поэлементное копирование
+    // Copy-присваивание: поэлементное копировани
     slist &operator=(slist &list)
     {
         if (this == &list)
